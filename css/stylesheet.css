@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background: url(../img/makin_my_way_downtown_by_tofupxl_dfafjim.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    opacity: 50%;
+}
+
